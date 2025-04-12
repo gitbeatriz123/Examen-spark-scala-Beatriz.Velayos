@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="Big-Data-Processing,Big-Data-Processing.main,Big-Data-Processing.test,examenBeatrizVelayos,examenBeatrizVelayos.main,examenBeatrizVelayos.test" />
+  </component>
+</project>
